@@ -1,4 +1,4 @@
-# Restful Employee Management
+# RESTful Employee Management
 
 ## Description
 
@@ -15,7 +15,7 @@ In this project, four different HTTP requests can be sent and received via a cli
 
 ***
 
-To install and start the Restful Employee Management server, you have to enter the following commands into the terminal of Visual Studio Code in this directory
+To install and start the RESTful Employee Management server, you have to enter the following commands into the terminal of Visual Studio Code in this directory
 
 * `npm install`
 * `npm run start`
